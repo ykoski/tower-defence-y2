@@ -1,0 +1,16 @@
+X1#XXXXXXXXXXXXX
+X##############X
+XXXXXXXXXXXXXX#X
+2########X###X#X
+XXXXXXXX#X#X#X#X
+X########X#X#X#X
+X#XXXXXXXX#X#X#X
+X########X#X#X#X
+XXXXXXXX#X#X#X#X
+X########X#X#X#X
+X#XXXXXXXX#X#X#X
+X########X#X#X#X
+XXXX#X#XXX#X#X#X
+XXXX#X#XXX#X#X#X
+X##########X###X
+XXXXXXXXXXXXXXXX
